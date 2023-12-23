@@ -13,11 +13,11 @@
 
 <details>
   <summary><b><h2>Github Stats ⚡️ <h2></b></summary>
-  <a href="https://github.com/shahzodxojamavlonov">
+  <a href="https://github.com/Shahzodxoja">
     <p align="left">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzodxojamavlonov&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahzodxojamavlonov&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahzodxojamavlonov&theme=github_dark&utcOffset=5"><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahzodxoja&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahzodxoja&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahzodxoja&theme=github_dark&utcOffset=5"><br>
     </p>
   </a> 
 </details>
